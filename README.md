@@ -1,4 +1,4 @@
-Secure and Private AI from Facebook using PyTorch (a Udacity Course)
+<b>Secure and Private AI from Facebook using PyTorch (a Udacity Course)</b>
 
 This course includes follwing lessons:
  <br>Lesson 1: Deep Learning with PyTorch</br>
